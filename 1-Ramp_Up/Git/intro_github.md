@@ -84,7 +84,7 @@ Podéis revisar los cambios realizados revisando los commits en el repositorio.
 
 ## Repositorios
 
-Los repositorios son la estructura base donde organizaremos nuestro trabajo. Podremos crear tantos como queramos o necesitemos aunque dado que Github aboga por el código abierto, si elegimos que nuestro respositorio sea privado, tendremos algunas restricciones con respecto a los públicos (a no ser que paguemos una suscripción superior).
+Los repositorios son la estructura base donde organizaremos nuestro trabajo. Podremos crear tantos como queramos o necesitemos aunque dado que Github aboga por el código abierto, si elegimos que nuestro repositorio sea privado, tendremos algunas restricciones con respecto a los públicos (a no ser que paguemos una suscripción superior).
 
 Podéis crear repositorios específicos para gestionar por ejemplo los ejercicios que realicéis en clase, de cara a tener una copia de vuestros ejercicios.
 
@@ -103,7 +103,7 @@ Y una vez creado podremos iniciar nuestro trabajo clonando el repositorio a una 
 
 ![clone](./img/clone.png)
 
-Dos acciones que no hemos visto hasta ahora es el añadir contenido al área de stagging, hacer un commit y enviar al respositorio remoto nuestros cambios.
+Dos acciones que no hemos visto hasta ahora es el añadir contenido al área de staging, hacer un commit y enviar al repositorio remoto nuestros cambios.
 
 * `git add ...` añade los cambios locales para ser registrados como un cambio a incluir en el repositorio
 * `git commit ...` agrupa todos los cambios añadidos bajo un mismo mensaje representando el objetivo de dichos cambios en el código
@@ -113,7 +113,7 @@ VSCode nos permite hacer una gestión visual de estos tres pasos en la pestaña 
 
 ![git-add](./img/add_1_ejemplo_infc.png)
 
-Una vez añadidos a nuestra área de stagging podremos hacer el commit y enviar los cambios al repositorio remote.
+Una vez añadidos a nuestra área de staging podremos hacer el commit y enviar los cambios al repositorio remote.
 
 ![git-commit](./img/add_2_ejemplo_infc.png)
 
